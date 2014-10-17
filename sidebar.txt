@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jkm:home|Door43 (jkm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jkm|d43-jkm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jkm/archive/master.zip|d43-jkm.zip]]
+
+**Recent Changes**
+{{changes>ns = jkm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jkm|Ethnologue data]]
+
